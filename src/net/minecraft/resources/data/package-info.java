@@ -1,0 +1,6 @@
+@ParametersAreNonnullByDefault
+@MethodsReturnNonnullByDefault
+package net.minecraft.resources.data;
+
+import me.sertyo.MethodsReturnNonnullByDefault;
+import javax.annotation.ParametersAreNonnullByDefault;

@@ -1,0 +1,6 @@
+@ParametersAreNonnullByDefault
+@MethodsReturnNonnullByDefault
+package net.minecraft.entity.monster;
+
+import me.sertyo.MethodsReturnNonnullByDefault;
+import javax.annotation.ParametersAreNonnullByDefault;
