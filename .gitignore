@@ -1,2 +1,15 @@
 # Project exclude paths
 /out/
+/options.txt/
+/optionsof.txt/
+/servers.dat/
+/servers.dat_old/
+/usercache.json/
+/out/
+/logs/
+/crash-reports/
+/assets/
+/resourcepacks/
+/saves/
+/server-resource-packs/
+/shaderpacks
